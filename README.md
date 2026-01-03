@@ -1,3 +1,5 @@
+<img width="2665" height="1694" alt="Screenshot 2026-01-03 220550" src="https://github.com/user-attachments/assets/2d52319f-4115-438e-b7b4-1ef593548fae" />
+
 # Quran AI Backend
 
 A Quran-only GenAI backend built with Python and FastAPI that performs:
@@ -312,4 +314,5 @@ This project is for educational and personal use.
 ---
 
 **Built with**: FastAPI, SentenceTransformers, FAISS, Python
+
 
