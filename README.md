@@ -1,4 +1,4 @@
-<img width="2665" height="1694" alt="Screenshot 2026-01-03 220550" src="https://github.com/user-attachments/assets/2d52319f-4115-438e-b7b4-1ef593548fae" />
+<img width="2402" height="1642" alt="Screenshot 2026-01-03 220358" src="https://github.com/user-attachments/assets/f859a393-0523-4e0f-9c5e-2d14ef7a470a" />
 
 # Quran AI Backend
 
@@ -314,5 +314,9 @@ This project is for educational and personal use.
 ---
 
 **Built with**: FastAPI, SentenceTransformers, FAISS, Python
+
+<img width="2665" height="1694" alt="Screenshot 2026-01-03 220550" src="https://github.com/user-attachments/assets/2d52319f-4115-438e-b7b4-1ef593548fae" />
+
+
 
 
